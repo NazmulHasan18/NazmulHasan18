@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=NazmulHasan18&style=plastic)
-
 <img align=”right” alt=”Coding” width=”400” src="./nazmul-banner.png"/>
 
 <h1 align="center">
@@ -51,7 +49,7 @@ When I'm not coding, I'm probably reading about systems design or optimizing som
 
 </div>
 
-<img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
+<img align="left" height="250" width="300" alt="" src="./giphy/lazy.gif" style="margin-right:30px"/>
 
 ### Talking about Personal Stuff:
 
@@ -69,22 +67,26 @@ When I'm not coding, I'm probably reading about systems design or optimizing som
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
 <div align="center">
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="HTML5" height="25" src="./images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="./images/css.svg"></code>
+  <code><img title="Javascript" height="25" src="./images/javaScript.svg"></code>
+  <code><img title="React" height="25" src="./images/React-Light.svg"></code>
+  <code><img title="Next" height="25" src="./images/NextJS-Light.svg"></code>
+  <code><img title="Problem Solving" height="25" src="./images/problemSolving.png"></code>
+  <code><img title="Redux" height="25" src="./images/redux.svg"></code>
+  <code><img title="SASS" height="25" src="./images/sass.svg"></code>
+  <code><img title="Node" height="25" src="./images/NodeJS-Light.svg"></code>
+  <code><img title="MongoDB" height="25" src="./images/MongoDB.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="./images/PostgreSQL-Light.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="./images/Prisma.svg"></code>
+  <code><img title="MySQL" height="25" src="./images/MySQL-Light.svg"></code>
+  <code><img title="Redis" height="25" src="./images/Redis-Light.svg"></code>
+  <code><img title="Git" height="25" src="./images/Git.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="./images/vscode.png"></code>
+  <code><img title="Docker" height="25" src="./images/Docker.svg"></code>
+  <code><img title="GitHub" height="25" src="./images/Github-Light.svg"></code>
+  <code><img title="Rabbit" height="25" src="./images/RabbitMQ-Light.svg"></code>
+  <code><img title="npm" height="25" src="./images/Npm-Light.svg"></code>
 </div>
 
 <br/>
@@ -92,60 +94,24 @@ When I'm not coding, I'm probably reading about systems design or optimizing som
 ## 📊 This Week I Coded In
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.53%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 179.2 kB Used in GitHub's Storage 
- > 
-> 🏆 35 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 58 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                749 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-🌆 Daytime                2383 commits        █████████████░░░░░░░░░░░░   51.35 % 
-🌃 Evening                1463 commits        ████████░░░░░░░░░░░░░░░░░   31.52 % 
-🌙 Night                  46 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   821 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Tuesday                  881 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Wednesday                842 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Thursday                 762 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Friday                   723 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Saturday                 502 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Sunday                   110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 12/04/2026 18:53:12 UTC
 <!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+
+### 😄 Before You Go...
+
+_Every great developer needs a laugh break!_
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%2358a6ff&aColor=%2379c0ff&textColor=%23e6edf3&codeColor=%23ff7b72)
+
+_Thanks for visiting! Come back anytime — I'll have fresh code and fresh jokes_ 😄
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=NazmulHasan18&style=plastic&label=Profile+Visitors)
+
+**Made with ❤️ and too much ☕ by Nazmul**
+
+</div>
