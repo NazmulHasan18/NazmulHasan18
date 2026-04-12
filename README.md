@@ -16,20 +16,18 @@ npx nazmul
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 6px; flex-wrap:wrap">
 
 <p style="font-size:16px;">Let's connect:</p>
-<a href="https://www.linkedin.com/in/nazmul-hasan-shanto-a67041182/">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/nazmul-hasan-shanto-a67041182/">
+
+<a href="https://www.linkedin.com/in/nazmul-hasan-shanto-a67041182">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://www.linkedin.com/in/nazmul-hasan-shanto-a67041182/">
+<a href="https://github.com/NazmulHasan18">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/nazmul-hasan-shanto-a67041182/">
+<a href="https://www.facebook.com/smnazmul.hasan.1829">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whit" alt="LinkedIn Badge"/>
 </a>
-<a href="https://www.linkedin.com/in/nazmul-hasan-shanto-a67041182/"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/nazmul-hasan-shanto-a67041182/"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://dev.to/nazmul_hasanshanto_572e5"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="mailto:nazmulhasanshanto13@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 <hr/>
@@ -53,14 +51,18 @@ When I'm not coding, I'm probably reading about systems design or optimizing som
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with <strong>JS, TS, React, Node, Express MongoDB, SQL & AWS.</strong>
-- 🚀 &nbsp; I’m currently deeply exploring <strong>Prisma, Docker.</strong>
-- 📫 &nbsp; Reach me out: <strong>nazmulhasanshanto13@gmail.com.</strong>
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>🛠 &nbsp; I’m currently working with <strong>TS, Next.js, Node, Express, MongoDB & Redux.</strong></li>
+  <li>🚀 &nbsp; I’m currently deeply exploring <strong>Prisma, Docker.</strong></li>
+  <li>📫 &nbsp; Reach me out: <strong>nazmulhasanshanto13@gmail.com</strong></li>
+</ul>
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 🍕 &nbsp; Meetups & Tech Events & Doing Math.
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>💻 &nbsp; I love exploring new technologies and building cool stuff.</li>
+  <li>🍕 &nbsp; Meetups & Tech Events & Doing Math.</li>
+</ul>
 
 <hr/>
 
