@@ -68,13 +68,13 @@ When I'm not coding, I'm probably reading about systems design or optimizing som
 
 <div align="center">
   <code><img title="HTML5" height="25" src="./images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="./images/css.svg"></code>
-  <code><img title="Javascript" height="25" src="./images/javaScript.svg"></code>
+  <code><img title="CSS" height="25" src="./images/CSS.svg"></code>
+  <code><img title="Javascript" height="25" src="./images/JavaScript.svg"></code>
   <code><img title="React" height="25" src="./images/React-Light.svg"></code>
   <code><img title="Next" height="25" src="./images/NextJS-Light.svg"></code>
   <code><img title="Problem Solving" height="25" src="./images/problemSolving.png"></code>
-  <code><img title="Redux" height="25" src="./images/redux.svg"></code>
-  <code><img title="SASS" height="25" src="./images/sass.svg"></code>
+  <code><img title="Redux" height="25" src="./images/Redux.svg"></code>
+  <code><img title="SASS" height="25" src="./images/Sass.svg"></code>
   <code><img title="Node" height="25" src="./images/NodeJS-Light.svg"></code>
   <code><img title="MongoDB" height="25" src="./images/MongoDB.svg"></code>
   <code><img title="PostgreSQL" height="25" src="./images/PostgreSQL-Light.svg"></code>
