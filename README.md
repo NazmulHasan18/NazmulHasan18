@@ -40,9 +40,6 @@ A Full Stack Web Engineer who loves turning complex problems into clean, scalabl
 I work across the entire stack — React & Next.js on the frontend, Node.js & Express on the backend,
 and MongoDB or PostgreSQL under the hood.
 
-I also build cross-platform mobile apps with React Native, architect microservices that don't fall apart
-under pressure, and explore Blockchain as an IEEE researcher in my spare time.
-
 When I'm not coding, I'm probably reading about systems design or optimizing something that didn't need optimizing.</strong>
 
 </div>
