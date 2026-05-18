@@ -93,36 +93,8 @@ When I'm not coding, I'm probably reading about systems design or optimizing som
 ## 📊 This Week I Coded In
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                749 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-🌆 Daytime                2383 commits        █████████████░░░░░░░░░░░░   51.28 % 
-🌃 Evening                1463 commits        ████████░░░░░░░░░░░░░░░░░   31.48 % 
-🌙 Night                  52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   827 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Tuesday                  881 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Wednesday                842 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Thursday                 762 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Friday                   723 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Saturday                 502 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Sunday                   110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               4 hrs 21 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 11/05/2026 03:47:00 UTC
+ Last Updated on 18/05/2026 03:57:03 UTC
 <!--END_SECTION:waka-->
 
 ---
