@@ -93,8 +93,40 @@ When I'm not coding, I'm probably reading about systems design or optimizing som
 ## 📊 This Week I Coded In
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 18/05/2026 03:57:03 UTC
+```text
+🌞 Morning                750 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+🌆 Daytime                2386 commits        █████████████░░░░░░░░░░░░   51.29 % 
+🌃 Evening                1464 commits        ████████░░░░░░░░░░░░░░░░░   31.47 % 
+🌙 Night                  52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   827 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Tuesday                  882 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Wednesday                842 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Thursday                 766 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Friday                   723 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Saturday                 502 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Sunday                   110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 44 mins        ████████████████░░░░░░░░░   62.42 % 
+Prisma                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+TSConfig                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+```
+
+
+ Last Updated on 25/05/2026 04:05:04 UTC
 <!--END_SECTION:waka-->
 
 ---
