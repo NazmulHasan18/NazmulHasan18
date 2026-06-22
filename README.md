@@ -96,21 +96,21 @@ When I'm not coding, I'm probably reading about systems design or optimizing som
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                757 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-🌆 Daytime                2406 commits        █████████████░░░░░░░░░░░░   51.12 % 
-🌃 Evening                1492 commits        ████████░░░░░░░░░░░░░░░░░   31.70 % 
+🌞 Morning                764 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+🌆 Daytime                2410 commits        █████████████░░░░░░░░░░░░   51.02 % 
+🌃 Evening                1498 commits        ████████░░░░░░░░░░░░░░░░░   31.71 % 
 🌙 Night                  52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   835 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Tuesday                  905 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Wednesday                850 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Thursday                 775 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Friday                   724 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Saturday                 504 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Sunday                   114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Monday                   837 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Tuesday                  911 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Wednesday                850 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Thursday                 777 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Friday                   724 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Saturday                 508 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Sunday                   117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 
 
@@ -118,14 +118,15 @@ Sunday                   114 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 hrs 21 mins      ████████████████████████░   97.97 % 
-Prisma                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               11 hrs 33 mins      ████████████████████████░   94.60 % 
+Prisma                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 
 
- Last Updated on 15/06/2026 04:43:51 UTC
+ Last Updated on 22/06/2026 04:43:21 UTC
 <!--END_SECTION:waka-->
 
 ---
