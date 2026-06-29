@@ -97,18 +97,18 @@ When I'm not coding, I'm probably reading about systems design or optimizing som
 
 ```text
 🌞 Morning                764 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-🌆 Daytime                2410 commits        █████████████░░░░░░░░░░░░   51.02 % 
-🌃 Evening                1498 commits        ████████░░░░░░░░░░░░░░░░░   31.71 % 
+🌆 Daytime                2412 commits        █████████████░░░░░░░░░░░░   51.04 % 
+🌃 Evening                1498 commits        ████████░░░░░░░░░░░░░░░░░   31.70 % 
 🌙 Night                  52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   837 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Monday                   839 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
 Tuesday                  911 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
 Wednesday                850 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Thursday                 777 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Friday                   724 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Thursday                 777 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Friday                   724 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 Saturday                 508 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 Sunday                   117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
@@ -118,15 +118,15 @@ Sunday                   117 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 33 mins      ████████████████████████░   94.60 % 
-Prisma                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+TypeScript               3 hrs 14 mins       ███████████████████████░░   91.97 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 
 
- Last Updated on 22/06/2026 04:43:21 UTC
+ Last Updated on 29/06/2026 04:11:25 UTC
 <!--END_SECTION:waka-->
 
 ---
