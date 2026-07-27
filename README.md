@@ -96,21 +96,21 @@ When I'm not coding, I'm probably reading about systems design or optimizing som
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                774 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-🌆 Daytime                2416 commits        █████████████░░░░░░░░░░░░   50.88 % 
-🌃 Evening                1506 commits        ████████░░░░░░░░░░░░░░░░░   31.72 % 
-🌙 Night                  52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+🌞 Morning                774 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+🌆 Daytime                2417 commits        █████████████░░░░░░░░░░░░   50.85 % 
+🌃 Evening                1510 commits        ████████░░░░░░░░░░░░░░░░░   31.77 % 
+🌙 Night                  52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   842 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Tuesday                  911 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Wednesday                856 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Thursday                 782 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Friday                   725 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Saturday                 513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Sunday                   119 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Monday                   845 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Tuesday                  911 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Wednesday                856 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Thursday                 782 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Friday                   727 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Saturday                 513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Sunday                   119 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
@@ -118,15 +118,15 @@ Sunday                   119 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 18 mins       █████████████████░░░░░░░░   68.97 % 
-Prisma                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+TypeScript               9 hrs 31 mins       ███████████████████████░░   91.16 % 
+CSS                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 
- Last Updated on 20/07/2026 03:39:59 UTC
+ Last Updated on 27/07/2026 03:24:56 UTC
 <!--END_SECTION:waka-->
 
 ---
