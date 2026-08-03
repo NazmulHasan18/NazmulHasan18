@@ -96,21 +96,21 @@ When I'm not coding, I'm probably reading about systems design or optimizing som
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                774 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-🌆 Daytime                2417 commits        █████████████░░░░░░░░░░░░   50.85 % 
-🌃 Evening                1510 commits        ████████░░░░░░░░░░░░░░░░░   31.77 % 
+🌞 Morning                776 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+🌆 Daytime                2421 commits        █████████████░░░░░░░░░░░░   50.82 % 
+🌃 Evening                1515 commits        ████████░░░░░░░░░░░░░░░░░   31.80 % 
 🌙 Night                  52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   845 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Tuesday                  911 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Wednesday                856 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Thursday                 782 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Friday                   727 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Saturday                 513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Sunday                   119 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Monday                   846 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Tuesday                  911 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Wednesday                856 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Thursday                 789 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Friday                   729 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Saturday                 513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Sunday                   120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 
 
@@ -118,15 +118,38 @@ Sunday                   119 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 31 mins       ███████████████████████░░   91.16 % 
-CSS                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript               6 hrs 21 mins       █████████████████████░░░░   83.97 % 
+CSS                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Prisma                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 59 mins (26.23%)
+
+✍️ 161 lines written by AI, 1,691 lines written by hand (8.69% AI-written)
+
+🔤 19,290,574 Input Tokens, 69,513 Output Tokens
+
+💵 $98.37 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 30 AI Prompts
+
+Github-Copilot           174 lines           ████████████████████░░░░░   78.03 % 
+GPT                      49 lines            █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 8.69% of written lines came from AI
+📄 Detailed Prompter — average 1,320 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 91.53% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 03:24:56 UTC
+ Last Updated on 03/08/2026 02:59:16 UTC
 <!--END_SECTION:waka-->
 
 ---
