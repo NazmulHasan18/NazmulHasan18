@@ -96,21 +96,21 @@ When I'm not coding, I'm probably reading about systems design or optimizing som
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                776 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-🌆 Daytime                2421 commits        █████████████░░░░░░░░░░░░   50.82 % 
-🌃 Evening                1515 commits        ████████░░░░░░░░░░░░░░░░░   31.80 % 
+🌞 Morning                778 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+🌆 Daytime                2423 commits        █████████████░░░░░░░░░░░░   50.76 % 
+🌃 Evening                1520 commits        ████████░░░░░░░░░░░░░░░░░   31.85 % 
 🌙 Night                  52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   846 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Tuesday                  911 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Wednesday                856 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Thursday                 789 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Friday                   729 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Saturday                 513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Sunday                   120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Monday                   846 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Tuesday                  912 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Wednesday                857 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Thursday                 792 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Friday                   732 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Saturday                 513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Sunday                   121 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 
 
@@ -118,38 +118,38 @@ Sunday                   120 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 21 mins       █████████████████████░░░░   83.97 % 
-CSS                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Prisma                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+TypeScript               7 hrs 27 mins       ████████████████████████░   94.60 % 
+CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Prisma                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 59 mins (26.23%)
+⏱ AI Coding Time: 54 mins (11.41%)
 
-✍️ 161 lines written by AI, 1,691 lines written by hand (8.69% AI-written)
+✍️ 23 lines written by AI, 2,505 lines written by hand (0.91% AI-written)
 
-🔤 19,290,574 Input Tokens, 69,513 Output Tokens
+🔤 661,809 Input Tokens, 18,324 Output Tokens
 
-💵 $98.37 Estimated AI Cost This Week
+💵 $3.09 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 30 AI Prompts
+🧠 9 AI Sessions, 18 AI Prompts
 
-Github-Copilot           174 lines           ████████████████████░░░░░   78.03 % 
-GPT                      49 lines            █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+GPT                      20 lines            ████████████████░░░░░░░░░   64.52 % 
+Github-Copilot           11 lines            █████████░░░░░░░░░░░░░░░░   35.48 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.69% of written lines came from AI
-📄 Detailed Prompter — average 1,320 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 91.53% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.91% of written lines came from AI
+📄 Detailed Prompter — average 805 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 99.08% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/08/2026 02:59:16 UTC
+ Last Updated on 10/08/2026 01:58:30 UTC
 <!--END_SECTION:waka-->
 
 ---
