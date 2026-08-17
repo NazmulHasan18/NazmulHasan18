@@ -118,38 +118,37 @@ Sunday                   121 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 27 mins       ████████████████████████░   94.60 % 
-CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Prisma                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+JavaScript               14 hrs 26 mins      ██████████████████░░░░░░░   71.30 % 
+TypeScript               4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (11.41%)
+⏱ AI Coding Time: 18 mins (1.5%)
 
-✍️ 23 lines written by AI, 2,505 lines written by hand (0.91% AI-written)
+✍️ 0 lines written by AI, 511 lines written by hand (0.0% AI-written)
 
-🔤 661,809 Input Tokens, 18,324 Output Tokens
+🔤 96,481 Input Tokens, 10,698 Output Tokens
 
-💵 $3.09 Estimated AI Cost This Week
+💵 $0.50 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 18 AI Prompts
+🧠 4 AI Sessions, 6 AI Prompts
 
-GPT                      20 lines            ████████████████░░░░░░░░░   64.52 % 
-Github-Copilot           11 lines            █████████░░░░░░░░░░░░░░░░   35.48 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.91% of written lines came from AI
-📄 Detailed Prompter — average 805 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 722 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.08% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/08/2026 01:58:30 UTC
+ Last Updated on 17/08/2026 01:25:00 UTC
 <!--END_SECTION:waka-->
 
 ---
