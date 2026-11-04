@@ -93,63 +93,8 @@ When I'm not coding, I'm probably reading about systems design or optimizing som
 ## 📊 This Week I Coded In
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                1046 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-🌆 Daytime                3236 commits        █████████████░░░░░░░░░░░░   51.74 % 
-🌃 Evening                1911 commits        ████████░░░░░░░░░░░░░░░░░   30.56 % 
-🌙 Night                  61 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1170 commits        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Tuesday                  1176 commits        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Wednesday                1122 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-Thursday                 1141 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Friday                   752 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Saturday                 616 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Sunday                   277 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               5 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.85 % 
-TypeScript               2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Other                    1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 11 hrs 3 mins (96.25%)
-
-✍️ 4,256 lines written by AI, 26 lines written by hand (99.39% AI-written)
-
-🔤 2,015,617 Input Tokens, 579,128 Output Tokens
-
-💵 $52.71 Estimated AI Cost This Week
-
-🧠 30 AI Sessions, 181 AI Prompts
-
-Opus                     4,623 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.39% of written lines came from AI
-📝 Concise Prompter — average 334 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.79% of changed lines were hand-edited
-```
-
-
- Last Updated on 26/10/2026 03:50:24 UTC
+ Last Updated on 04/11/2026 06:41:40 UTC
 <!--END_SECTION:waka-->
 
 ---
